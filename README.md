@@ -37,5 +37,5 @@ Laravel  Vuejs  PHP  Docker  Git  Nuxtjs  React  Redux   Python   CSS  HTML  Jav
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkmaurya&show_icons=true&locale=en" alt="bytegeniex" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkmaurya&" alt="bytegeniex" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkmaurya&" alt="deepakkmaurya" /></p>
 
